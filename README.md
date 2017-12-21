@@ -1,6 +1,9 @@
 # markdown_pics
+
 Pictures staged for markdown files.
+
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
+
 formula1: $$n==x$$
 
 formula2: $$n!=x$$
