@@ -4,5 +4,5 @@
 
 Pictures staged for markdown files.
 
-$$ e^{i\pi} + 1 $$
+$$e^{i\pi} + 1$$
 
